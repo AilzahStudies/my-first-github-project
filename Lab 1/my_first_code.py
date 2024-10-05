@@ -1,2 +1,1 @@
-import random
-print("Welcome to L4 Programming 24/25")
+print("Earth calling, pilot to co-pilot" + "\nnew Github commit")
