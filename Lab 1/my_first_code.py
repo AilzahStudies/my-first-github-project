@@ -1,6 +1,9 @@
 import random
-print("My first line of code")
+print("Welcome to L4 Programming 24/25")
+
 '''
+print("My first line of code")
+
 print("Dear python, I know how display text",
       "\nHello",end = "")
 print(" World!")
@@ -66,5 +69,3 @@ def icebreaker():
 icebreaker()
 '''
 
-git init 
-git status
